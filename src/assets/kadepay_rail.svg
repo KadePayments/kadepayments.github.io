@@ -1,0 +1,127 @@
+<svg width="848" height="152" viewBox="0 0 424 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+    {/* ── static rails and junctions ── */}
+    <rect x="172" y="56" width="12" height="24" transform="rotate(-90 172 56)" fill="#336940"/>
+    <rect x="160" y="44" width="12" height="12" transform="rotate(-90 160 44)" fill="#336940"/>
+    <rect x="172" y="32" width="12" height="24" transform="rotate(-90 172 32)" fill="#336940"/>
+    <rect x="252" y="20" width="12" height="24" transform="rotate(90 252 20)"  fill="#336940"/>
+    <rect x="264" y="32" width="12" height="12" transform="rotate(90 264 32)"  fill="#336940"/>
+    <rect x="252" y="44" width="12" height="24" transform="rotate(90 252 44)"  fill="#336940"/>
+    <rect x="64"  y="44" width="12" height="96" transform="rotate(-90 64 44)"  fill="url(#paint0_linear_55865_13275)"/>
+    <rect x="360" y="32" width="12" height="96" transform="rotate(90 360 32)"  fill="url(#paint1_linear_55865_13275)"/>
+
+    {/* ── Arkade logo (top, y=0–32) ── */}
+    <path d="M196 32V2C196 0.895431 196.895 0 198 0L226 0C227.105 0 228 0.895431 228 2V32H196Z" fill="#351791"
+          fill-opacity="0.24"/>
+    <path d="M216.002 7.92383H212.04V11.8858H216.002V7.92383Z" fill="#351791"/>
+    <path d="M212.04 7.92383H208.078V11.8858H212.04V7.92383Z" fill="#351791"/>
+    <path d="M219.964 11.8857H216.002V15.8477H219.964V11.8857Z" fill="#351791"/>
+    <path d="M204.116 11.8857H208.078V15.8477H204.116V11.8857Z" fill="#351791"/>
+    <path d="M208.078 15.8481H212.04V19.8101H208.078V15.8481Z" fill="#351791"/>
+    <path d="M212.04 15.8481H216.002V19.8101H212.04V15.8481Z" fill="#351791"/>
+    <path d="M219.964 19.8101H216.002V23.772H219.964V19.8101Z" fill="#351791"/>
+    <path d="M204.116 19.8101H208.078V23.772H204.116V19.8101Z" fill="#351791"/>
+    <path d="M216.002 7.92383L219.964 11.8858H216.002V7.92383Z" fill="#351791"/>
+    <path d="M208.078 7.92383L204.116 11.8858H208.078V7.92383Z" fill="#351791"/>
+
+
+    {/* ── Bitcoin logo (bottom, y=44–76) ── */}
+    <path d="M198 76C196.895 76 196 75.1046 196 74V44H228V74C228 75.1046 227.105 76 226 76H198Z" fill="#F7931A"
+          fill-opacity="0.35"/>
+    <path d="M219.189 58.02C219.503 55.924 217.906 54.797 215.724 54.045L216.432 51.205L214.704 50.775L214.014 53.54C213.56 53.426 213.094 53.32 212.629 53.214L213.324 50.431L211.596 50L210.888 52.839C210.512 52.753 210.142 52.669 209.784 52.579L209.786 52.57L207.402 51.975L206.942 53.821C206.942 53.821 208.225 54.115 208.198 54.133C208.898 54.308 209.024 54.771 209.003 55.139L208.197 58.374C208.245 58.386 208.307 58.404 208.377 58.431L208.194 58.386L207.064 62.918C206.978 63.13 206.761 63.449 206.271 63.328C206.289 63.353 205.015 63.015 205.015 63.015L204.157 64.993L206.407 65.554C206.825 65.659 207.235 65.769 207.638 65.872L206.923 68.744L208.65 69.174L209.358 66.334C209.83 66.461 210.288 66.579 210.736 66.691L210.03 69.519L211.758 69.949L212.473 67.083C215.421 67.641 217.637 67.416 218.57 64.75C219.322 62.604 218.533 61.365 216.982 60.558C218.112 60.298 218.962 59.555 219.189 58.02ZM215.239 63.558C214.706 65.705 211.091 64.544 209.919 64.253L210.869 60.448C212.041 60.741 215.798 61.32 215.239 63.558ZM215.774 57.989C215.287 59.942 212.279 58.949 211.304 58.706L212.164 55.256C213.139 55.499 216.282 55.952 215.774 57.989Z" fill="#F7931A"/>
+
+    {/* ── Receiver icon (right) ── */}
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M408 24.6665C400.64 24.6665 394.667 30.6398 394.667 37.9998C394.667 45.3598 400.64 51.3332 408 51.3332C415.36 51.3332 421.333 45.3598 421.333 37.9998C421.333 30.6398 415.36 24.6665 408 24.6665ZM416.48 44.4398C414.573 42.1198 409.947 41.3332 408 41.3332C406.053 41.3332 401.427 42.1198 399.52 44.4398C398.16 42.6532 397.333 40.4265 397.333 37.9998C397.333 32.1198 402.12 27.3332 408 27.3332C413.88 27.3332 418.667 32.1198 418.667 37.9998C418.667 40.4265 417.84 42.6532 416.48 44.4398ZM403.333 34.6665C403.333 32.0798 405.413 29.9998 408 29.9998C410.587 29.9998 412.667 32.0798 412.667 34.6665C412.667 37.2532 410.587 39.3332 408 39.3332C405.413 39.3332 403.333 37.2532 403.333 34.6665Z" fill="grey"/>
+
+    {/* ── Sender icon (left) ── */}
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 24.6665C8.64 24.6665 2.66667 30.6398 2.66667 37.9998C2.66667 45.3598 8.64 51.3332 16 51.3332C23.36 51.3332 29.3333 45.3598 29.3333 37.9998C29.3333 30.6398 23.36 24.6665 16 24.6665ZM24.48 44.4398C22.5733 42.1198 17.9467 41.3332 16 41.3332C14.0533 41.3332 9.42667 42.1198 7.52 44.4398C6.16 42.6532 5.33334 40.4265 5.33334 37.9998C5.33334 32.1198 10.12 27.3332 16 27.3332C21.88 27.3332 26.6667 32.1198 26.6667 37.9998C26.6667 40.4265 25.84 42.6532 24.48 44.4398ZM11.3333 34.6665C11.3333 32.0798 13.4133 29.9998 16 29.9998C18.5867 29.9998 20.6667 32.0798 20.6667 34.6665C20.6667 37.2532 18.5867 39.3332 16 39.3332C13.4133 39.3332 11.3333 37.2532 11.3333 34.6665Z" fill="grey"/>
+
+    {/* ── defs ── */}
+    <defs>
+        <linearGradient id="paint0_linear_55865_13275" x1="70" y1="140" x2="70" y2="44" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#336940"/>
+            <stop offset="1" stop-color="#65CF7E" stop-opacity="0.28"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear_55865_13275" x1="366" y1="128" x2="366" y2="32" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#336940"/>
+            <stop offset="1" stop-color="#65CF7E" stop-opacity="0.28"/>
+        </linearGradient>
+        {/* glow filters */}
+        <filter id="glow-orange" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+
+    {/* ── ANIMATED COINS ── */}
+
+    {/* Orange coin → routes through Bitcoin (bottom, y=50) */}
+    <g filter="url(#glow-orange)">
+        <circle r="7" fill="#F7931A" stroke="white" stroke-width="1.5">
+            <animateMotion
+                    dur="4s"
+                    repeatCount="indefinite"
+                    begin="1s"
+                    calcMode="linear"
+                    path="M 16,38 L 64,38 L 160,38 L 172,50 L 252,50 L 264,38 L 360,38 L 408,38"
+            />
+        </circle>
+        {/* ₿ symbol on the coin */}
+        <text
+                font-size="7"
+                fill="white"
+                font-weight="bold"
+                text-anchor="middle"
+                dominant-baseline="central"
+        >
+            ₿
+            <animateMotion
+                    dur="4s"
+                    repeatCount="indefinite"
+                    begin="1s"
+                    calcMode="linear"
+                    path="M 16,38 L 64,38 L 160,38 L 172,50 L 252,50 L 264,38 L 360,38 L 408,38"
+            />
+        </text>
+    </g>
+
+    {/* Blue coin → routes through Arkade (top, y=26) */}
+    <g filter="url(#glow-blue)" opacity="0">
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="1.2s" fill="freeze" repeatCount="1"/>
+        <circle r="7" fill="#351791" stroke="white" stroke-width="1.5">
+            <animateMotion
+                    dur="4s"
+                    repeatCount="indefinite"
+                    begin="0s"
+                    calcMode="linear"
+                    path="M 16,38 L 64,38 L 160,38 L 172,26 L 252,26 L 264,38 L 360,38 L 408,38"
+            />
+        </circle>
+        {/* ₿ symbol on the blue coin */}
+        <text
+                font-size="7"
+                fill="white"
+                font-weight="bold"
+                text-anchor="middle"
+                dominant-baseline="central"
+        >
+            ₿
+            <animateMotion
+                    dur="4s"
+                    repeatCount="indefinite"
+                    begin="0s"
+                    calcMode="linear"
+                    path="M 16,38 L 64,38 L 160,38 L 172,26 L 252,26 L 264,38 L 360,38 L 408,38"
+            />
+        </text>
+    </g>
+</svg>
