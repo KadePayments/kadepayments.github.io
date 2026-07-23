@@ -1,7 +1,12 @@
 import './style.css'
 import kadePayRail from './assets/kadepay_rail.svg'
+import kadePay from './assets/kadepay.svg'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
+<header>
+<img src="${kadePay}" alt="KadePayments" height="36" width="36">
+</header>
+
 <section id="center">
   <div class="hero">
     <img src="${kadePayRail}" alt="KadePay Rail"/>
