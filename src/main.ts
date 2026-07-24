@@ -16,13 +16,36 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <h3 id="subheading2">${h3}</h3>
   </div>
 </section>
-<!--section id="next-steps">
-  <div id="social">
-    <ul>
-      <li><a href="https://github.com/kadepayments" target="_blank"><svg class="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#github-icon"></use></svg>GitHub</a></li>
+<footer id="footer">
+    <div id="kadepayments">
+        <img src="${kadePay}" alt="KadePayments" height="24" width="24"/>
+        <p>KadePayments</p>
+    </div>
+    <p id="small_banner">Your money, smart and safe, always with you</p>
+    <ul id="social">
+        <li>
+            <a href="https://github.com/kadepayments" target="_blank">
+                <svg class="social-button-icon" role="presentation" aria-hidden="true">
+                    <use href="/icons.svg#github-icon"></use>
+                </svg>
+            </a>
+        </li>
+        <li id="x">
+            <a href="" target="_blank">
+                <svg class="social-button-icon" role="presentation" aria-hidden="true">
+                    <use href="/icons.svg#x-icon"></use>
+                </svg>
+            </a>
+        </li>
+        <li>
+            <a href="" target="_blank">
+                <svg class="social-button-icon" role="presentation" aria-hidden="true">
+                    <use href="/icons.svg#telegram-icon"></use>
+                </svg>
+            </a>
+        </li>
     </ul>
-  </div>
-</section-->
+</footer>
 `
 
 const subHeadings = [
