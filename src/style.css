@@ -69,15 +69,15 @@ body {
 
 h1,
 h2 {
-    font-family: var(--heading);
-    font-weight: 700;
+    font-family: var(--heading), serif;
+    font-weight: 1000;
     word-spacing: -0.5px;
     line-height: 1;
     color: var(--text-h);
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 76px;
     letter-spacing: -1.68px;
     margin: 32px 0;
     @media (max-width: 1024px) {
